@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/azurenew1602/Suntest/_apis/build/status/sun160293.pipelines-java?branchName=master)](https://dev.azure.com/azurenew1602/Suntest/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
